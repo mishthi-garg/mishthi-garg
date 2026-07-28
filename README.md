@@ -87,4 +87,10 @@ Full-stack pregnancy care platform with **specialist search, consultation bookin
 
 ---
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Mishthi_Garg_Resume.pdf)
+
+---
+
 ⭐ Feel free to explore my repositories and connect with me!
